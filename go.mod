@@ -3,8 +3,8 @@ module github.com/jenkins-zh/jenkins-cli
 go 1.16
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.3.1
-	github.com/Netflix/go-expect v0.0.0-20180615182759-c93bf25de8e8
+	github.com/AlecAivazis/survey/v2 v2.3.6
+	github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2
 	github.com/Pallinder/go-randomdata v1.2.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/chai2010/gettext-go v0.0.0-20170215093142-bf70f2a70fb1
@@ -15,7 +15,7 @@ require (
 	github.com/google/go-github/v29 v29.0.3
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/hashicorp/go-version v1.2.1
-	github.com/hinshun/vt10x v0.0.0-20180616224451-1954e6464174
+	github.com/hinshun/vt10x v0.0.0-20220119200601-820417d04eec
 	github.com/jedib0t/go-pretty/v6 v6.2.4
 	github.com/jenkins-zh/jenkins-client v0.0.10-0.20220706065616-22f8c7675234
 	github.com/jenkins-zh/jenkins-formulas v0.0.5
