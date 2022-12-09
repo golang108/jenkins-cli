@@ -23,7 +23,7 @@ require (
 	github.com/linuxsuren/go-cli-alias v0.0.6
 	github.com/linuxsuren/go-cli-plugin v0.0.4
 	github.com/linuxsuren/http-downloader v0.0.33
-	github.com/magiconair/properties v1.8.5
+	github.com/magiconair/properties v1.8.7
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/moby v20.10.8+incompatible
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
